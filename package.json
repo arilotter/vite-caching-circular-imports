@@ -1,0 +1,10 @@
+{
+  "name": "vite-caching-circular-imports",
+  "version": "1.0.0",
+  "devDependencies": {
+    "vite": "npm:@akryum/vite@3.2.2-server-cache.17"
+  },
+  "scripts": {
+    "test": "vite"
+  }
+}
